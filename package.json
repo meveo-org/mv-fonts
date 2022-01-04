@@ -1,0 +1,24 @@
+{
+  "name": "@meveo-org/mv-fonts",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meveo-org/mv-fonts.git"
+  },
+  "files": [
+    "/comfortaa",
+    "/font-awesome",
+    "/linear-icons",
+    "/museo",
+    "/source-sans-pro"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meveo-org/mv-fonts/issues"
+  },
+  "homepage": "https://github.com/meveo-org/mv-fonts#readme"
+}
